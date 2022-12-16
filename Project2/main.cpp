@@ -12,6 +12,7 @@ void tutorial(Methods method);
 
 int main()
 {
+	cout<<"hello world"<<endl;
 	Dataset_Handler handler(0);
 	Methods method;
 
