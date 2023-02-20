@@ -31,8 +31,8 @@ The detailed documents can be found in [robotics-computing](https://github.com/b
     We start our project by studying [**KITTI Odometry in Python and OpenCV - Beginner's Guide to Computer Vision**](https://github.com/FoamoftheSea/KITTI_visual_odometry.git) (shout out to [FoamoftheSea](https://github.com/FoamoftheSea) by the way). It helps us understand what's happening in the whole system.
     
     We then turn the [python code](./src/tutorial%20python%20code/KITTI_visual_odometry.ipynb) into [C/C++ code](./src/tutorial%20C%20code), while the algorithms are still implemented by calling OpenCV API functions. The overall structure appears as well during our weekly discussions.
+    ![block diagram](./img/Flowchart.png)
     
-- ## Tutorial code
 
 ## **Algorithms**
 - ## Stereo Matching
