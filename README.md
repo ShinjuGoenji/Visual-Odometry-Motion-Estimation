@@ -22,7 +22,7 @@ The detailed documents can be found in [robotics-computing](https://github.com/b
 - 林奕杰
 - 李承澔 *from* ***National Tsing Hua University***
 
-## **Instructors**
+## **Advisors**
 - 賴謹 *prof*
 - 翁華揚 *TA*
 
