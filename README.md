@@ -1,6 +1,7 @@
 # FPGA Implementation of Visual Odometry by Using High-Level Synthesis
 [![](https://img.shields.io/badge/boledu-visual--odometry-brightgreen)](https://github.com/bol-edu/robotics-computing.git)
-[![](https://img.shields.io/badge/vo--hls-paper-brightgreen)](https://implementation.ee.nthu.edu.tw/competition/groups/d654e3e1-c800-43e4-8583-01de78e7f9eb/attachments/summary?download=0)\
+[![](https://img.shields.io/badge/vo--hls-paper-brightgreen)](https://implementation.ee.nthu.edu.tw/competition/groups/d654e3e1-c800-43e4-8583-01de78e7f9eb/attachments/summary?download=0)
+
 This repository is for the project in the course 
 **Special Project on Electrical Engineering**. 
 
@@ -9,6 +10,8 @@ It contains the code for our High-Level Synthesis (HLS) project on Visual Odomet
 Our goal is to accomplish an end-to-end service of accelerated visual odometry. It's our first time to learn High-Level Synthesis in Vitis design flow.
 
 *In this repos only contained the **motion estimation** part. Detailed documents of full system can be found [here](https://github.com/bol-edu/robotics-computing.git).*
+
+![](./doc/img/algorithm%20flow.gif)
 
 ## What's in Here
 - [How to Build](#how-to-build)
