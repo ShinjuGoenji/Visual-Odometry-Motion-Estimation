@@ -27,7 +27,7 @@ git clone https://github.com/ShinjuGoenji/Visual-Odometry-Motion-Estimation.git
 
 1. ```cd``` to directory [program](./program/).
 ```
-cd ./motion-estimation/program
+cd ./program
 ```
 2. ```make``` the host executable program & xclbin files using Makefile.
 ```
