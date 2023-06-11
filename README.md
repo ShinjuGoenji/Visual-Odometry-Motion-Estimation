@@ -3,16 +3,15 @@
 [![](https://img.shields.io/badge/vo--hls-paper-yellow)](https://implementation.ee.nthu.edu.tw/competition/groups/d654e3e1-c800-43e4-8583-01de78e7f9eb/attachments/summary?download=0)
 ![](https://komarev.com/ghpvc/?username=ShinjuGoenji&color=red)
 
-This repository is for the project in the course 
-**Special Project on Electrical Engineering**. 
+This repository is for the project in the course **Special Project on Electrical Engineering**. 
 
 It contains the code for our High-Level Synthesis (HLS) project on Visual Odometry. The Visual Odometry datasets are based on [*KITTI*](https://www.cvlibs.net/datasets/kitti/). The project was implemented using the [*Xilinx Vitis™ HLS*](https://www.xilinx.com/products/design-tools/vitis/vitis-hls.html) design flow and tested on the [*Alveo U50 Data Center Accelerator Cards*](https://www.xilinx.com/products/boards-and-kits/alveo/u50.html). 
 
 Our goal is to accomplish an end-to-end service of accelerated visual odometry. It's our first time to learn High-Level Synthesis in Vitis design flow.
 
-*In this repos only contained the **motion estimation** part. Detailed documents of full system can be found [here](https://github.com/bol-edu/robotics-computing.git).*
+![](./doc/img/demo.gif)
 
-![](./doc/img/algorithm%20flow.gif)
+*In this repos only contained the **motion estimation** part. Detailed documents of full system can be found [here](https://github.com/bol-edu/robotics-computing.git).*
 
 ## What's in Here
 - [How to Build](#how-to-build)
@@ -122,4 +121,5 @@ make run TARGET=hw
 
 ## Algorithms
 
+![](./doc/img/algorithm%20flow.gif)
 
