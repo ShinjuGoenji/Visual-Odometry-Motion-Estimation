@@ -1,7 +1,7 @@
 # FPGA Implementation of Visual Odometry by Using High-Level Synthesis
 [![](https://img.shields.io/badge/boledu-visual--odometry-brightgreen)](https://github.com/bol-edu/robotics-computing.git)
 [![](https://img.shields.io/badge/vo--hls-paper-yellow)](https://implementation.ee.nthu.edu.tw/competition/groups/d654e3e1-c800-43e4-8583-01de78e7f9eb/attachments/summary?download=0)
-![](https://komarev.com/ghpvc/?username=ShinjuGoenji&color=red)
+[![](https://komarev.com/ghpvc/?username=ShinjuGoenji&color=red)](https://github.com/ShinjuGoenji/Visual-Odometry-Motion-Estimation.git)
 
 This repository is for the project in the course **Special Project on Electrical Engineering**. 
 
