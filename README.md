@@ -14,9 +14,9 @@ Our goal is to accomplish an end-to-end service of accelerated visual odometry. 
 *In this repos only contained the **motion estimation** part. Detailed documents of full system can be found [here](https://github.com/bol-edu/robotics-computing.git).*
 
 ## What's in Here
-- [How to Build](#how-to-build)
 - [Toolchain and Prerequisites](#toolchain-and-prerequisites)
 - [Prepare the Environment](#prepare-the-environment)
+- [How to Build](#how-to-build)
 - [How to Use](#how-to-use)
 - [Algorithms](#algorithms)
 - [Design Flow](#design-flow)
